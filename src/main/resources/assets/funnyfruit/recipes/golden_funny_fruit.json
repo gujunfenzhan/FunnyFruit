@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sapling",
+      "data": 0
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "funnyfruit:sapling_funny_fruit"
+    }
+}

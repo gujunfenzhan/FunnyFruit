@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "funnyfruit:block/sapling_funny_fruit"
+    }
+}

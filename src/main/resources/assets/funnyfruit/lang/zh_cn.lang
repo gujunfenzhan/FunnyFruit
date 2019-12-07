@@ -1,0 +1,14 @@
+itemGroup.creativeTab.funnyFruit=滑稽果
+
+tile.SaplingFunnyFruit.name=滑稽果树苗
+tile.logFunnyFruit.name=滑稽果原木
+tile.levelFunny.name=滑稽树叶
+tile.levelFunnyFruit.name=滑稽果树叶
+
+item.funnyFruit.name=滑稽果
+item.goldenFunnyFruit.name=24K纯金滑稽果
+
+goldenFunnyFruit.desc.1=§5滑稽树上滑稽果
+goldenFunnyFruit.desc.2=§5滑稽树下你和我
+goldenFunnyFruit.desc.3=§5滑稽树前做游戏
+goldenFunnyFruit.desc.4=  §5欢乐多又多

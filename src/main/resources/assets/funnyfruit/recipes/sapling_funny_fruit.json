@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "funnyfruit:funny_fruit"
+    }
+  },
+  "result": {
+    "item": "funnyfruit:golden_funny_fruit"
+    }
+}

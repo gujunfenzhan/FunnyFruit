@@ -1,0 +1,16 @@
+[
+{
+  "modid": "funnyfruit",
+  "name": "滑稽果",
+  "description": "滑稽树上滑稽果\n滑稽树下你和我\n滑稽树前做游戏\n欢乐多又多",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GoldMain"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

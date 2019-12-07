@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "funnyfruit:block/log_funny_fruit_top",
+        "side": "funnyfruit:block/log_funny_fruit"
+    }
+}
